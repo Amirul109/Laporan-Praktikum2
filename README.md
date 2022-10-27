@@ -16,6 +16,8 @@ Pada class diagram ini  menggunakan access modifier private, access modifier ini
 
 ->Getter berfungsi mengambil nilai dari masing-masing variable pada class.
 ![Programclassperson ke 3](https://user-images.githubusercontent.com/116171779/198369523-a137a6eb-08a7-4679-8c68-e6d823c66390.jpg)
+
+
 ->Program Keseluruhannya.
 ![Programclassperson - 1](https://user-images.githubusercontent.com/116171779/198370150-637370b6-be99-4108-ad43-d13607c38f97.jpg)
 
@@ -34,6 +36,8 @@ Pada class diagram ini  menggunakan access modifier private, access modifier ini
 
 ->Program Keseluruhannya.
 ![java tugas](https://user-images.githubusercontent.com/116171779/198370724-295c5a97-3dc7-46e8-9e41-59fb3c020652.jpg)
+
+
 ->Hasil Output Programnya :
 ![Hasilprogram](https://user-images.githubusercontent.com/116171779/198370908-ff5433a9-3196-42db-aa8a-c592e4755891.jpg)
 
