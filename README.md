@@ -17,8 +17,9 @@ Pada class diagram ini  menggunakan access modifier private, access modifier ini
 ->Getter berfungsi mengambil nilai dari masing-masing variable pada class.
 ![Programclassperson ke 3](https://user-images.githubusercontent.com/116171779/198369523-a137a6eb-08a7-4679-8c68-e6d823c66390.jpg)
 
-![Programclassperson - 1](https://user-images.githubusercontent.com/116171779/198370150-637370b6-be99-4108-ad43-d13607c38f97.jpg)
 ->Program Keseluruhannya.
+![Programclassperson - 1](https://user-images.githubusercontent.com/116171779/198370150-637370b6-be99-4108-ad43-d13607c38f97.jpg)
+
 
 #2. Membuat Object Class Person Anton dan Riko #
 
@@ -26,6 +27,7 @@ Pada class diagram ini  menggunakan access modifier private, access modifier ini
 ![Membuatobjek](https://user-images.githubusercontent.com/116171779/198371709-1d32c8be-dcc7-4a2b-b122-0867b7a5076f.jpg)
 
 ->lalu kita membuat atribut dalam objek. Atributnya yaitu nama, jenis kelamin dan umur, pada saat membuat atribut kita juga memberikan nilai pada variable.
+
 ![Memberinilai](https://user-images.githubusercontent.com/116171779/198372132-e59ac5d3-44ae-4bfd-bc83-4f36af7981c2.jpg)
 
 ->selanjutnya kita mengambil nilai dari variable dengan method getter.
@@ -34,8 +36,9 @@ Pada class diagram ini  menggunakan access modifier private, access modifier ini
 ->Program Keseluruhannya.
 ![java tugas](https://user-images.githubusercontent.com/116171779/198370724-295c5a97-3dc7-46e8-9e41-59fb3c020652.jpg)
 
-![Hasilprogram](https://user-images.githubusercontent.com/116171779/198370908-ff5433a9-3196-42db-aa8a-c592e4755891.jpg)
 ->Hasil Output Programnya :
+![Hasilprogram](https://user-images.githubusercontent.com/116171779/198370908-ff5433a9-3196-42db-aa8a-c592e4755891.jpg)
+
 
 
 
