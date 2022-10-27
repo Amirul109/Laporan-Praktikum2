@@ -1,11 +1,13 @@
 # Laporan-Praktikum2
-Nama  : Amirul Mu'minin
-Kelas : Ti.21.C2
-Nim   : 312110109
+
+# Nama  : Amirul Mu'minin
+# Kelas : Ti.21.C2
+# Nim   : 312110109
 
 # Mendeklarasikan Class person #
 
--> Untuk membuat class person yang memiliki atribut nama, jenis kelamin dan umur kita perlu type data string dan integer untuk umur. Pada class diagram ini  menggunakan access modifier private, access modifier ini berfungsi untuk menjaga integritas data ketika ingin diakses objek lain. 
+-> Untuk membuat class person yang memiliki atribut nama, jenis kelamin dan umur kita perlu type data string dan integer untuk umur.
+Pada class diagram ini  menggunakan access modifier private, access modifier ini berfungsi untuk menjaga integritas data ketika ingin diakses objek lain. 
 ![Programclassperson awal](https://user-images.githubusercontent.com/116171779/198368757-aba30571-f949-4acc-bb2d-fb4daff5f468.jpg)
 -> selanjutnya  tambahkan method setter dan getter, method setter berfungsi untuk mengisi nilai pada variable dari class utama.
 ![Programclassperson ke 2](https://user-images.githubusercontent.com/116171779/198369112-a94706a3-bc38-4011-979b-1ee81825dfba.jpg)
